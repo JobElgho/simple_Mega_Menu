@@ -1,2 +1,2 @@
 # simple_Mega_Menu
-with Html5 &amp;CSS3&amp; javascript
+From Adobe XD Prototype to HTML, CSS & JS - Making an Animated Mega Menu
